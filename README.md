@@ -1,5 +1,5 @@
 # Cloud cover detection
-This repo contains jupyter notebook and some other file fo running DrivenData competition - [On Cloud N: Cloud Cover Detection Challenge](https://www.drivendata.org/competitions/83/cloud-cover/page/396/)
+This repo contains jupyter notebook and some other file fo running DrivenData competition - [On Cloud N: Cloud Cover Detection Challenge](https://www.drivendata.org/competitions/83/cloud-cover/page/396/). First code was partialy overtaken from this [notebook](https://www.drivendata.co/blog/cloud-cover-benchmark/).
 
 For run this notebook properly you will need:
 
