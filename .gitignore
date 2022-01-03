@@ -1,0 +1,13 @@
+# ignore data folder
+data
+
+.vscode
+
+.ipynb_checkpoins
+
+# ignore all next files
+sas_westeurope.txt
+
+.csv
+
+.png
